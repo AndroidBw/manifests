@@ -17,6 +17,5 @@
   
   <!-- AndroidBw ROM -->
   <project name="AndroidBw/android_packages_apps_androidbw" path="packages/apps/androidbw" remote="github" revision="androidbw8.1" />
-  <project name="AndroidBw/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="androidbw8.1" />
   
 </manifest>
