@@ -13,7 +13,7 @@
   <!-- Common -->
   <!-- Kernels -->
   <project name="AndroidBw/android_kernel_oneplus_msm8996" path="kernel/oneplus/msm8996" remote="github" revision="androidbw8.1" />
-  <project name="AndroidBw/android_kernel_xiaomi_msm8937" path="kernel/xiaomi/msm8937" remote="github" revision="androidbw8.1-new" />
+  <project name="AndroidBw/android_kernel_xiaomi_msm8937" path="kernel/xiaomi/msm8937" remote="github" revision="androidbw8.1" />
 
   <!-- OPPO -->
   <project name="LineageOS/android_device_oppo_common" path="device/oppo/common" remote="github" revision="lineage-15.1" />
