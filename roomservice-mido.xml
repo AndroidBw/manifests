@@ -9,6 +9,8 @@
   <project name="AndroidBw/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="androidbw8.1" /> -->
   
   <!-- Common -->
+  <project name="AndroidBw/android_device_xiaomi_msm8953-common" path="device/xiaomi/msm8953-common" revision="androidbw8.1" />
+  
   <!-- Kernels -->
   <project name="AndroidBw/android_kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953" remote="github" revision="androidbw8.1" />
   
