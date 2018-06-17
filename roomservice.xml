@@ -9,8 +9,8 @@
 
   <!-- Vendor -->
   <project name="AndroidBw/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="lineage-15.1" />
-  <!-- <project name="AndroidBw/android_vendor_xiaomi_santoni" path="vendor/xiaomi" remote="github" revision="lineage-15.1" /> -->
-  <project name="AndroidBw/android_proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="androidbw8.1" />
+  <project name="AndroidBw/android_vendor_xiaomi_santoni" path="vendor/xiaomi" remote="github" revision="lineage-15.1" />
+  <!-- <project name="AndroidBw/android_proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="androidbw8.1" /> -->
   
   <!-- Common -->
   <!-- Kernels -->
