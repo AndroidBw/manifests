@@ -1,6 +1,5 @@
 <manifest>
   <!-- Manifest for AndroidBw based on LineageOS 15.1 -->
-  <!-- by Frank Eggen 2018 -->
 
   <!-- Devices -->
   <project name="AndroidBw/android_device_xiaomi_mido" path="device/xiaomi/mido" remote="github" revision="androidbw8.1" />
