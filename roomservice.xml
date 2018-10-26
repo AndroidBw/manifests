@@ -17,7 +17,7 @@
   
   <!-- Common -->
   <project name="FraEgg/device_xiaomi_msm8953-common_ad" path="device/xiaomi/msm8953-common" revision="androidbw8.1" />
-  <project name="FraEgg/android_device_oneplus_msm8998-common" path="device/oneplus/msm8998-common" remote="github" revision="oreo-luis-los" />
+  <project name="FraEgg/android_device_oneplus_msm8998-common" path="device/oneplus/msm8998-common" remote="github" revision="lineage-15.1" />
   
   <!-- Kernels -->
   <project name="FraEgg/android_kernel_oneplus_msm8998_reflash" path="kernel/oneplus/msm8998" remote="github" revision="androidbw8.1" />
