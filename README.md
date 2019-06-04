@@ -1,2 +1,2 @@
 # manifests
-Manifests for AndroidBw Project
+Manifests for AndroidBw 9.0 Project
