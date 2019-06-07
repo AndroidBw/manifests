@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Device tree -->
-  <project name="FraEgg/android_device_xiaomi_santoni" path="device/xiaomi/santoni" remote="github" revision="androidbw9.0" />
+  <project name="FraEgg/android_device_xiaomi_santoni_ra" path="device/xiaomi/santoni" remote="github" revision="androidbw9.0" />
   <project name="nichcream/android_device_xiaomi_msm8937-common" path="device/xiaomi/msm8937-common" remote="github" revision="lineage-16.0" />
 
   <!-- Kernel -->
