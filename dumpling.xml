@@ -16,7 +16,7 @@
   <!-- Temp fixes -->
 
   <!-- AndroidBw ROM -->
-  <!-- <project name="AndroidBw/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="androidbw9.0" /> -->
+  <project name="AndroidBw/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="androidbw9.0" />
 
   <!-- Add Wireguard -->
   <remote name="zx2c4" fetch="https://git.zx2c4.com/" />
