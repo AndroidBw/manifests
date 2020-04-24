@@ -15,6 +15,6 @@
   <!-- Temp fixes -->
 
   <!-- AndroidBw ROM -->
-  <project name="AndroidBw/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="androidbw10.0" />
+  <!-- <project name="AndroidBw/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="androidbw10.0" /> -->
 
 </manifest>
