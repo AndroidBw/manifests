@@ -2,7 +2,7 @@
 <manifest>
 
     <!-- DEVICES -->
-	<project path="device/samsung/universal8895-common" name="FraEgg/android_device_samsung_universal8895-common" remote="github" revision="lineage-17.1"/>
+	<project path="device/samsung/universal8895-common" name="FraEgg/android_device_samsung_universal8895-common" remote="github" revision="androidbw10.0"/>
 	<project path="device/samsung/dreamlte" name="FraEgg/android_device_samsung_dreamlte" remote="github" revision="lineage-17.1"/>
 	<!-- <project path="device/samsung/dream2lte" name="FraEgg/android_device_samsung_dream2lte" remote="github" revision="lineage-17.1"/> -->
 	<!-- <project path="device/samsung/greatlte" name="exynos8895/android_device_samsung_greatlte" remote="github" revision="lineage-17.1"/> -->
